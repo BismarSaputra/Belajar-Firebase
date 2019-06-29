@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750262870649",
+    "firebase_url": "https://mobileprogrammingiii.firebaseio.com",
+    "project_id": "mobileprogrammingiii",
+    "storage_bucket": "mobileprogrammingiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750262870649:android:371314e280a5ebc9",
+        "android_client_info": {
+          "package_name": "com.simple.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750262870649-4fuid7qdqh6ctjasev9fvi2303nc2u93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCdUNi0EitFoYgLFPNqF36ew1CeEZWIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750262870649-4fuid7qdqh6ctjasev9fvi2303nc2u93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
